@@ -15,13 +15,13 @@ img.octocat{
     padding: 20px;
 }
 .one{
-    background-color: blue; 
+    background-color: rgb(43, 116, 177); 
 }
 .two{
-    background-color: pink;
+    background-color: rgb(51, 175, 82);
     align-items: center;
     justify-content: space-evenly;
 }
 .three {
-    background-color: white;
+    background-color: rgb(173, 62, 146);
 }
